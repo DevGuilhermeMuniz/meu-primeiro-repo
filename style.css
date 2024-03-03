@@ -1,0 +1,41 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.Card-image {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.Card-image img {
+    width: 70%;
+    height: 70%;
+}
+
+.ConteudoCard {
+    h1 span {
+        font-size: 35px;
+    }
+
+    h1 .NomeUsuario {
+        color: blueviolet;
+    }
+
+    h1 .NomeUsuario2 {
+        color: yellow;
+    }
+
+    p span {
+        font-weight: bold;
+    }
+
+    p i {
+        font-style: italic;
+        color: #b11a1a;
+    }
+}
